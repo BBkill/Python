@@ -1,0 +1,7 @@
++	Toán tử cộng 2 giá trị.	7 + 3 = 10
+-	Toán tử trừ 2 giá trị.7 - 3 = 4
+*	Toán tử nhân 2 giá trị.	7 * 3 = 21
+/	Toán tử chia 2 giá trị.7 / 3 = 2.(3)
+//	Toán tử chia lấy phần nguyên của 2 giá trị.7 // 3 = 2||10 // 6 = 1
+%	Toán tử chia lấy phần dư của 2 giá trị.7 % 3 = 1||10 % 6 = 4
+**	Toán tử mũ (a**b = ab)	2 ** 3 = 8||5 ** 7 = 78125

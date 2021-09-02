@@ -1,0 +1,4 @@
+boolean
+a and b --> true/false nếu a và b cùng đúng
+a or b  --> true/false 1 trong 2 đúng
+not b --> true/false false nếu không phải b;

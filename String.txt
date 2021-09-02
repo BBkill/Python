@@ -1,0 +1,5 @@
+'<char>' in <String> --> true/false
+'<char>' not in <string> -->true/false
+
+
+"String" in <String>/"String"-->true/flase
